@@ -1,2 +1,1 @@
-# 2025
-2025 Event Website Archive
+# 2025 Event Website Archive
