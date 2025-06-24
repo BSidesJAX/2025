@@ -7,7 +7,7 @@ classes: wide
 ---
 
 :bangbang: **Sponsorship Opportunity**:
-Are you interested in being a sponsor for this year's event? Check out the [Sponsor Kit](/assets/files/2025_BSidesJax_SponsorKit.v3.pdf) or send an email to [info@bsidesjax.org](mailto:info@bsidesjax.org).
+Are you interested in being a sponsor for this year's event? Check out the [Sponsor Kit](/assets/files/2025_BSidesJax_SponsorKit.v4.pdf) or send an email to [info@bsidesjax.org](mailto:info@bsidesjax.org).
 {: .notice--info}
 
 <!--//START/ TODO: Update Platinum Sponsor
